@@ -1,10 +1,10 @@
-Stock Dashboard
+# Stock Dashboard
 
 This is a personal project I built to explore financial data visualization and technical analysis. It’s a stock market dashboard made with Python, Streamlit, and Plotly, where you can chart stocks, add indicators, and even compare multiple tickers at once.
 
 As a CS & Math undergraduate interested in quantitative finance, I wanted to learn how to fetch live market data, process it, and build an interactive tool that looks and feels close to real trading dashboards.
 
-What it can do
+# What it can do
 
 Candlestick or Line Charts – switch between two charting modes.
 
@@ -18,7 +18,7 @@ Custom Date Ranges – choose your own analysis window.
 
 Data Table – inspect the actual stock price data.
 
-Why I built this
+# Why I built this
 
 I wanted hands-on experience with:
 
@@ -30,7 +30,7 @@ Creating interactive dashboards in Streamlit.
 
 Understanding how real-world charting tools (like TradingView) are built.
 
-Next steps
+# Next steps
 
 Some things I’d like to add in the future:
 
